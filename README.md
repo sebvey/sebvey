@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastien</h1>
-<h3 align="center">A passionate Data Analyst from France</h3>
+<h3 align="center">A passionate Data Engineer from France</h3>
 
-- 🔭 I’m currently working on portfolio projects as [Predict Water Pollution](https://github.com/sebvey/water_pollution)
-
-- 🌱 I’m currently improving my skills thanks to **Dataquest.io**
+- 🌱 I’m currently improving my skills on Data Engineering thanks to Le Wagon Data Engineer Post Bootcamp Path
 
 - 📫 How to reach me **sebvey@gmail.com**
 
