@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastien</h1>
+<h1 align="center">👋 Hi, I'm Sebastien</h1>
 <h3 align="center">A passionate Data Engineer from France</h3>
 
 - 🌱 I’m currently improving my skills on Data Engineering thanks to Le Wagon Data Engineer Post Bootcamp Path.
@@ -12,9 +12,8 @@ Interesting in the pygame repo :
 - package management and installation in python
 
 
-📫 How to reach me : **sebvey@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+📫 How to reach me : **sebvey@gmail.com**
 <p align="left">
 </p>
 
