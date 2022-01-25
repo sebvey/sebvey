@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sebastien</h1>
-### A passionate Data Engineer from France
+
+## A passionate Data Engineer from France
 
 - 🌱 After an intensive year learning AI development in Python at Le Wagon, I’m currently improving my skills on Data Engineering on various projects and thanks to Le Wagon Data Engineer Post Bootcamp Path.
 
