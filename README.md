@@ -26,7 +26,7 @@ The goal of the project was to develop an AI playing the game, trained with rein
 It hasn't been selected but will soon be done as a personal challenge.
 
 
-### Connect with me :
+## Connect with me :
 📫 How to reach me : **sebvey@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
