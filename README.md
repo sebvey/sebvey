@@ -12,7 +12,7 @@ The [water_sql_db](https://github.com/sebvey/water_sql_db) repository is the SQL
 **Highlights :**
 - Google Cloud SQL - used to host a mysql db
 - Google Cloud Functions - used to request an API and update a SQL db
-- Google Cloud Scheduler - used to schedule the call of the function
+- Google Cloud Scheduler - used to automate the call of the function
 
 ### Python Packages, Classes, Pygame
 The [pysnake repository](https://github.com/sebvey/pysnake) is a python version of the snake game developed with pygame done during the Wagon Bootcamp.  
