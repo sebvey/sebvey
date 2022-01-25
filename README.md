@@ -1,24 +1,25 @@
 <h1 align="center">👋 Hi, I'm Sebastien</h1>
-<h3 align="center">A passionate Data Engineer from France</h3>
+### A passionate Data Engineer from France
 
 - 🌱 After an intensive year learning AI development in Python at Le Wagon, I’m currently improving my skills on Data Engineering on various projects and thanks to Le Wagon Data Engineer Post Bootcamp Path.
 
-### Repositories of interest
+## Repositories of interest
 
-#### Google Cloud SQL, Google Cloud Functions, request APIs
-The [water_sql_db](https://github.com/sebvey/water_sql_db) repository is the SQL part of the Wagon Bootcamp final Project : Predict Water Pollution.  
+### Google Cloud SQL, Google Cloud Functions, request APIs
+The [water_sql_db](https://github.com/sebvey/water_sql_db) repository is the SQL part of the Predict Water Pollution Project.  
+
 **Highlights :**
 - Google Cloud SQL - used to host a mysql db
 - Google Cloud Functions - used to request an API and update a SQL db
 - Google Cloud Scheduler - used to schedule the call of the function
 
-#### Python Packages, Classes, Pygame
+### Python Packages, Classes, Pygame
+The [pysnake repository](https://github.com/sebvey/pysnake) is a python version of the snake game developed with pygame done during the Wagon Bootcamp.  
 
-Interesting in this repo :
+**Highlights :**
 - Class implementation and usage in python
 - package management and installation in python
   
-The [pysnake repository](https://github.com/sebvey/pysnake) is a python version of the snake game developed with pygame done during the Wagon Bootcamp.
 This app was coded when we were presenting our project proposal for the two final weeks of the bootcamp.
 The goal of the project was to develop an AI playing the game, trained with reinforcement learning.
 It hasn't been selected but will soon be done as a personal challenge.
