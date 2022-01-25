@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently improving my skills on Data Engineering thanks to Le Wagon Data Engineer Post Bootcamp Path.
 
+## Repositories of interest
+### Snake Implementation
 At present, you can see the [pysnake repository](https://github.com/sebvey/pysnake), a python version of the snake game, done during the Wagon Bootcamp.
 This app was coded when we were presenting our project proposal for the two final weeks of the bootcamp. The goal of the project was to develop
 an AI playing the game, trained with reinforcement learning. It hasn't been selected but will soon be done as a personal challenge.
