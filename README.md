@@ -7,7 +7,7 @@
 ## Repositories of interest
 
 ### Google Cloud SQL, Google Cloud Functions, request APIs
-The [water_sql_db](https://github.com/sebvey/water_sql_db) repository is the SQL part of the Predict Water Pollution Project.  
+The [water_data_preparation](https://github.com/sebvey/water_data_preparation) repository is the SQL part of the Predict Water Pollution Project.  
 
 **Highlights :**
 - Google Cloud SQL - used to host a mysql db
