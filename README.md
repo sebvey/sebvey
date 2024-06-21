@@ -3,7 +3,7 @@
 ## A passionate Data Engineer from France
 
 - 🌱 After an intensive year learning AI development in Python at Le Wagon, I have been working as a Data Engineering since 2022 at [IPPON Technologies](https://fr.ippon.tech/).
--  My daily work mainly involves the development and optimization of Data Platform using distributed systems (Spark, Snowflake) and AWS
+-  My daily work mainly involves the development and optimization of Data Platforms using distributed systems (Spark, Snowflake) and AWS
 -  My prefered languages are Scala and Python, both used when they best fit the need
 -  In love with the functional paradigm ;-)
 
