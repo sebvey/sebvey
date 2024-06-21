@@ -2,28 +2,10 @@
 
 ## A passionate Data Engineer from France
 
-- 🌱 After an intensive year learning AI development in Python at Le Wagon, I’m currently improving my skills on Data Engineering on various projects and thanks to Le Wagon Data Engineer Post Bootcamp Path.
-
-## Repositories of interest
-
-### Google Cloud SQL, Google Cloud Functions, request APIs
-The [water_data_preparation](https://github.com/sebvey/water_data_preparation) repository is the SQL part of the Predict Water Pollution Project.  
-
-**Highlights :**
-- Google Cloud SQL - used to host a mysql db
-- Google Cloud Functions - used to request an API and update a SQL db
-- Google Cloud Scheduler - used to automate the call of the function
-
-### Python Packages, Classes, Pygame
-The [pysnake repository](https://github.com/sebvey/pysnake) is a python version of the snake game developed with pygame done during the Wagon Bootcamp.  
-
-**Highlights :**
-- Class implementation and usage in python
-- package management and installation in python
-  
-This app was coded when we were presenting our project proposal for the two final weeks of the bootcamp.
-The goal of the project was to develop an AI playing the game, trained with reinforcement learning.
-It hasn't been selected but will soon be done as a personal challenge.
+- 🌱 After an intensive year learning AI development in Python at Le Wagon, I have been working as a Data Engineering since 2022 at [IPPON Technologies](https://fr.ippon.tech/).
+-  My daily work mainly involves the development and optimization of Data Platform using distributed systems (Spark, Snowflake) and AWS
+-  My prefered languages are Scala and Python, both used when they best fit the need
+-  In love with the functional paradigm ;-)
 
 
 ## Connect with me :
